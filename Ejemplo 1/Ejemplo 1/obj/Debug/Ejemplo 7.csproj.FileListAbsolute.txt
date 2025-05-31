@@ -1,8 +1,0 @@
-C:\Users\User\Desktop\Ejercicios 2.1\Ejemplo 7\Ejemplo 7\obj\Debug\Ejemplo 7.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Ejercicios 2.1\Ejemplo 7\Ejemplo 7\obj\Debug\Ejemplo 7.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Ejercicios 2.1\Ejemplo 7\Ejemplo 7\bin\Debug\Ejemplo 7.exe.config
-C:\Users\User\Desktop\Ejercicios 2.1\Ejemplo 7\Ejemplo 7\bin\Debug\Ejemplo 7.exe
-C:\Users\User\Desktop\Ejercicios 2.1\Ejemplo 7\Ejemplo 7\bin\Debug\Ejemplo 7.pdb
-C:\Users\User\Desktop\Ejercicios 2.1\Ejemplo 7\Ejemplo 7\obj\Debug\Ejemplo 7.exe
-C:\Users\User\Desktop\Ejercicios 2.1\Ejemplo 7\Ejemplo 7\obj\Debug\Ejemplo 7.pdb
-C:\Users\User\Desktop\Ejercicios 2.1\Ejemplo 7\Ejemplo 7\obj\Debug\Ejemplo 7.exe.config
